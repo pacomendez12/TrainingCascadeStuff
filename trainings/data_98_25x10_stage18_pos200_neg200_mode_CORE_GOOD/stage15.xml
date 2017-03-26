@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage15>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-1.1835558414459229e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 37912 -2.9525861144065857e-02</internalNodes>
+      <leafValues>
+        6.4705884456634521e-01 -2.7402135729789734e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 13610 -1.6773656010627747e-02</internalNodes>
+      <leafValues>
+        5.5855554342269897e-01 -3.9033955335617065e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 38596 -3.9517669938504696e-03</internalNodes>
+      <leafValues>
+        6.7146462202072144e-01 -3.3506551384925842e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 809 5.5378861725330353e-03</internalNodes>
+      <leafValues>
+        -3.3161652088165283e-01 6.0889375209808350e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 29444 1.6232974827289581e-02</internalNodes>
+      <leafValues>
+        -3.8878998160362244e-01 5.3195065259933472e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 16709 -9.9950167350471020e-04</internalNodes>
+      <leafValues>
+        5.4310238361358643e-01 -3.2133069634437561e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 27045 -4.7047156840562820e-03</internalNodes>
+      <leafValues>
+        4.4815665483474731e-01 -4.4289478659629822e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 39626 1.9623499829322100e-03</internalNodes>
+      <leafValues>
+        -4.9852862954139709e-01 4.7111216187477112e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 11647 2.7871310710906982e-02</internalNodes>
+      <leafValues>
+        3.0115631222724915e-01 -7.7563363313674927e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 38080 8.1960484385490417e-03</internalNodes>
+      <leafValues>
+        -2.8729876875877380e-01 1.</leafValues></_></weakClassifiers></stage15>
+</opencv_storage>

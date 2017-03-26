@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage14>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-1.2073795795440674e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 39153 1.4200523495674133e-02</internalNodes>
+      <leafValues>
+        -5.1297402381896973e-01 5.7575756311416626e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 14629 -6.7900260910391808e-03</internalNodes>
+      <leafValues>
+        3.2901915907859802e-01 -4.0647953748703003e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 14549 1.6072103753685951e-02</internalNodes>
+      <leafValues>
+        2.8159186244010925e-01 -5.5849999189376831e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 17349 7.3541342280805111e-03</internalNodes>
+      <leafValues>
+        -2.4783565104007721e-01 6.7468649148941040e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 29311 -6.9964455906301737e-04</internalNodes>
+      <leafValues>
+        -6.0547977685928345e-01 2.9466843605041504e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 28453 4.4867191463708878e-03</internalNodes>
+      <leafValues>
+        -2.4704219400882721e-01 5.6113743782043457e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 14401 2.5495798327028751e-03</internalNodes>
+      <leafValues>
+        -4.1757279634475708e-01 3.6369431018829346e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 39465 2.4932153522968292e-02</internalNodes>
+      <leafValues>
+        -1.6798841953277588e-01 8.9421057701110840e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 27954 4.2453922331333160e-02</internalNodes>
+      <leafValues>
+        -2.4933266639709473e-01 5.1765358448028564e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 4349 -1.7180360853672028e-02</internalNodes>
+      <leafValues>
+        7.0307379961013794e-01 -1.9680763781070709e-01</leafValues></_></weakClassifiers></stage14>
+</opencv_storage>

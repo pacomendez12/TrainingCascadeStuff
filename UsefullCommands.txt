@@ -1,0 +1,16 @@
+ls /home/pacomendez/fast_home/results/GOOD | xargs -I{} ./cascade /home/pacomendez/fast_home/results/GOOD/{}/cascade.xml ~/Pictures/car5.jpg
+
+
+./cascade /home/pacomendez/fast_home/results/GOOD/data_125_25x10_stage18_pos400_neg300_mode_CORE_GOOD/cascade.xml ~/Pictures/car1.jpg
+
+
+ls /home/pacomendez/fast_home/results/GOOD | xargs -I{} ./cpp-example-facedetect --cascade="/home/pacomendez/fast_home/results/GOOD/{}/cascade.xml" --try-flip ~/Pictures/car.png
+
+
+
+./cpp-example-facedetect --cascade="/home/pacomendez/fast_home/results/GOOD/data_134_25x10_stage18_pos500_neg200_mode_CORE_GOOD/cascade.xml" ~/Pictures/car.png
+
+
+./cpp-example-facedetect --cascade="/home/pacomendez/fast_home/results/GOOD/data_315_50x20_stage18_pos400_neg200_mode_ALL_BAD/cascade.xml" ~/Pictures/car.png
+
+

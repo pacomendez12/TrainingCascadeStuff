@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486262480 source:/home/pacomendez/cascadeTraining/aux/info/main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<sstream>
+
