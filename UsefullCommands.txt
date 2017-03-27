@@ -14,3 +14,7 @@ ls /home/pacomendez/fast_home/results/GOOD | xargs -I{} ./cpp-example-facedetect
 ./cpp-example-facedetect --cascade="/home/pacomendez/fast_home/results/GOOD/data_315_50x20_stage18_pos400_neg200_mode_ALL_BAD/cascade.xml" ~/Pictures/car.png
 
 
+
+# GDB with trainer
+/home/pacomendez/Git_projects/opencv/build/bin/opencv_traincascade -data data -vec cars.vec -bg bg.txt -numPos 200 -numNeg 200 -numStages 10 -numThreads 16 -featureType HAAR -w 25 -h 10 -mode BASIC
+
